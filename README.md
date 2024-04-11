@@ -96,12 +96,14 @@ Soy un desarrollador full stack con experiencia en la enseñanza de robótica y 
 - **Videojuegos:** Apasionado jugador de videojuegos, especialmente de juegos de rol y estrategia en grupo.
 - **Suculentas y Cactus:** Aficionado a la jardinería, disfruto cultivando y cuidando suculentas y cactus en mi tiempo libre.
 
-- <h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/hpicossi/count.svg" alt="hpicossi :: Visitor's Count" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<h4 align="center">Top langs :tongue:</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpicossi&langs_count=10&theme=tokyonight&layout=compact" alt="hpicossi :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hpicossi&show_icons=true&theme=synthwave" alt="hpicossi :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
