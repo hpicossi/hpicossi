@@ -12,6 +12,17 @@
 - **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/hilario-menendez/)
 - **GitHub:** [Perfil de GitHub](https://github.com/hpicossi)
 
+  <div align="center">
+    <div style="display: inline-block;">
+        <h4 align="center">Top langs :tongue:</h4>
+        <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpicossi&langs_count=10&theme=tokyonight&layout=compact" alt="hpicossi :: Top Langs" /></p>
+    </div>
+    <div style="display: inline-block;">
+        <h4 align="center">Profile stats :musical_keyboard:</h4>
+        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hpicossi&show_icons=true&theme=synthwave" alt="hpicossi :: Profile Stats" /></p>
+    </div>
+</div>
+
 ---
 
 ## Acerca de mí
@@ -67,17 +78,6 @@ Soy un desarrollador full stack con experiencia en la enseñanza de robótica y 
 
 - **Videojuegos:** Apasionado jugador de videojuegos, especialmente de juegos de rol y estrategia en grupo.
 - **Suculentas y Cactus:** Aficionado a la jardinería, disfruto cultivando y cuidando suculentas y cactus en mi tiempo libre.
-
-<div align="center">
-    <div style="display: inline-block;">
-        <h4 align="center">Top langs :tongue:</h4>
-        <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpicossi&langs_count=10&theme=tokyonight&layout=compact" alt="hpicossi :: Top Langs" /></p>
-    </div>
-    <div style="display: inline-block;">
-        <h4 align="center">Profile stats :musical_keyboard:</h4>
-        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hpicossi&show_icons=true&theme=synthwave" alt="hpicossi :: Profile Stats" /></p>
-    </div>
-</div>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
