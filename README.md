@@ -7,7 +7,6 @@
 ## Contacto
 
 - **Email:** hpicossi@gmail.com
-- **Teléfono:** +543517472834
 - **Ubicación:** Córdoba, Argentina
 - **LinkedIn:** [Perfil de LinkedIn](URL_de_tu_perfil)
 - **GitHub:** [Perfil de GitHub](URL_de_tu_perfil)
