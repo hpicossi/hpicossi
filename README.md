@@ -107,3 +107,7 @@ Soy un desarrollador full stack con experiencia en la enseñanza de robótica y 
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
+| [<img src="https://raw.githubusercontent.com/github/explore/main/topics/scrum/scrum.png" alt="Scrum" width="24">](https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software)) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/kanban/kanban.png" alt="Kanban" width="24">](https://es.wikipedia.org/wiki/Kanban) | Documentos IEEE830 (Especificación de Requisitos de Software) | Lenguajes de Programación: C#, Java, TypeScript, JavaScript | Bases de Datos: SQL Server, MySQL, Sybase | Tecnologías Frontend: jQuery, HTML, CSS, Bootstrap | Frameworks y Plataformas: .NET Framework, ASP .NET, WordPress, Angular, Spring, Spring Boot, Auth0 | Herramientas de Control de Versiones: GitHub, SVN Tortoise | Protocolos de red: HTTP (API Rest) |
+|---|---|---|---|---|---|---|---|---|
+
+
