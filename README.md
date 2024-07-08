@@ -10,7 +10,6 @@
 - **Email:** hpicossi@gmail.com
 - **Ubicación:** Córdoba, Argentina
 - **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/hilario-menendez/)
-- **GitHub:** [Perfil de GitHub](https://github.com/hpicossi)
 
   <div align="center">
     <div style="display: inline-block;">
