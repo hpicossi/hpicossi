@@ -7,8 +7,6 @@
 
 ## Contacto
 
-- **Email:** hpicossi@gmail.com
-- **Ubicación:** Córdoba, Argentina
 - **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/hilario-menendez/)
 
   <div align="center">
