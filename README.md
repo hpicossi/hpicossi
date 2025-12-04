@@ -1,10 +1,5 @@
 # Hilario Iñigo Menendez Picossi
 
-![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-Web-blue)
-
-
----
-
 ## Contacto
 
 - **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/hilario-menendez/)
